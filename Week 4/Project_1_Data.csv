@@ -1,0 +1,11 @@
+Airline,Destination,On_time,Delayed
+ALASKA,Los Angeles,497,62
+ALASKA,Phoenix,221,12
+ALASKA,San Diego,212,20
+ALASKA,San Francisco,503,102
+ALASKA,Seattle,1841,305
+AM WEST,Los Angeles,694,117
+AM WEST,Phoenix,4840,415
+AM WEST,San Diego,383,65
+AM WEST,San Francisco,320,129
+AM WEST,Seattle,201,61
